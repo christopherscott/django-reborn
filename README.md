@@ -6,6 +6,8 @@ Inspired by the [Django Textmate Theme](https://code.djangoproject.com/wiki/Text
 
 Optimized for web development, especially **HTML**, **CSS**, and **JavaScript**.
 
+_screenshots below shown with [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
+
 ## HTML
 ![Example HTML file](https://raw.github.com/christopherscott/django-reborn/master/screens/django-reborn-html.png)
 
