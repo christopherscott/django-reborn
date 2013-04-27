@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#062418</string>
+				<string>#051f14</string>
 				<key>caret</key>
 				<string>#ffcc00</string>
 				<key>foreground</key>
@@ -18,9 +18,9 @@
 				<key>invisibles</key>
 				<string>#497958</string>
 				<key>lineHighlight</key>
-				<string>#0000004A</string>
+				<string>#000000</string>
 				<key>selection</key>
-				<string>#245032</string>
+				<string>#203727</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -29,7 +29,6 @@
 				<string>#222218</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
-
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
@@ -52,7 +51,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#245032</string>
+				<string>#285938</string>
 			</dict>
 		</dict>
 		<!-- fix docstrings to look like comments and not strings -->
